@@ -5,3 +5,5 @@ This repository corresponds to my submission of the fifth project from the Deep 
 I recorded a demo video showing the final result with some examples from IMDB. You can wath it [HERE](https://youtu.be/KOaL7ZCZ_F4).
 
 [WebPage](https://davidjurado.github.io/Sentiment_Analysis_Deployment/) is not available for inference.
+
+[Notebook](https://davidjurado.github.io/Sentiment_Analysis_Deployment/SageMaker%20Project.html).
